@@ -1,7 +1,16 @@
 # Graduation-project-
 This repo contains property finder graduation project. In this project There are 9 rest parameters : Which are ;
 
-/addtocart, /removeitem, /cartcheckout,/listcart, /users/signup , /users/login , /users/productview,/users/search,/admin/addproduct (for adding product to db with admin user)
+/addtocart
+/removeitem
+/cartcheckout
+/listcart
+/users/signup
+/users/login
+/users/productview
+/users/search
+/admin/addproduct (for adding product to db with admin user)
+
 
 I used mongo db as db. You can run this program without any db setup. Db is serving in cloud. Firewall rule is accep all. So you can test all methods. 
 
